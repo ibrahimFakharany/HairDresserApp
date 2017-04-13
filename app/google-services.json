@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "438850442526",
+    "firebase_url": "https://barbiebeauty-e6a84.firebaseio.com",
+    "project_id": "barbiebeauty-e6a84",
+    "storage_bucket": "barbiebeauty-e6a84.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:438850442526:android:e78e0f7ec0377c79",
+        "android_client_info": {
+          "package_name": "logoin.example.com.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "438850442526-37fq177e9f408cd7jdfsr2rlhu1lfhno.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "logoin.example.com.myapplication",
+            "certificate_hash": "bd7e73b6a9e407c11027670a7f1903e75b671de6"
+          }
+        },
+        {
+          "client_id": "438850442526-aub1lp859amcukuv3vffueo99ure6v1n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrS3esMvkQ9pzS9ZbjqLXnl6P9Sm-IMmI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "438850442526-aub1lp859amcukuv3vffueo99ure6v1n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

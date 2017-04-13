@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/advice"
+            android:title="نصائح يوميه"
+            android:icon="@drawable/daily"
+
+            />
+        <item
+            android:id="@+id/ideas"
+            android:title="افكار  منزليه"
+            android:icon="@drawable/home"
+            />
+        <item
+            android:id="@+id/traditional"
+            android:icon="@drawable/bad"
+            android:title="عادات خاطئه ابتعدى عنها"
+
+            />
+        <item
+            android:id="@+id/shows"
+            android:title="عروض بارمابيو فى صالون "
+            android:icon="@drawable/promotio"
+
+            />
+        <item
+            android:id="@+id/works"
+            android:title="اعمالنا"
+            android:icon="@drawable/works"
+            />
+        <item
+            android:id="@+id/Misc"
+            android:title="منوعات "
+            android:icon="@drawable/misc"/>
+        <item
+            android:id="@+id/contact"
+            android:title="طريقه الاتصال ب باربى "
+            android:icon="@drawable/location"
+            />
+
+    </group>
+
+
+
+</menu>
